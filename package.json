@@ -1,0 +1,27 @@
+{
+  "name": "mypackage.json",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teby4real/mypackage.git"
+  },
+  "keywords": [
+    "package",
+    "module",
+    "git"
+  ],
+  "author": "teby4real",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teby4real/mypackage/issues"
+  },
+  "homepage": "https://github.com/teby4real/mypackage#readme",
+  "dependencies": {
+    "once": "^1.3.0"
+  }
+}
